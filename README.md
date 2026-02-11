@@ -11,3 +11,11 @@ This package enables Pimcore to write to an Azure Storage Account via Flysystem.
         }
     }
 4. Add the contents of the file `flysystem_example.yaml` to your project's `flysystem.yaml` file (typically located at `pimcore-root/config/packages/flysystem.yaml`).
+
+# License
+
+This bundle is licensed under the Pimcore Open Core License (POCL)
+and is intended for use with Pimcore Platform 2025.1 and newer.
+
+See LICENSE.md for full license text.
+
