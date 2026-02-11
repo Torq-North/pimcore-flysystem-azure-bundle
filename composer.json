@@ -1,5 +1,5 @@
 {
-    "license": "POCL",
+    "license": "proprietary",
     "name": "torq/pimcore-flysystem-azure-bundle",
     "type": "pimcore-bundle",
     "require": {
