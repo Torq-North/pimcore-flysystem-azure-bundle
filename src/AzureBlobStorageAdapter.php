@@ -1,6 +1,6 @@
 <?php
 
-namespace Torq\PimcoreFlysystemAzureBundle;
+namespace TorqNorth\PimcoreFlysystemAzureBundle;
 
 use DateTimeInterface;
 use League\Flysystem\ChecksumProvider;

@@ -1,21 +1,21 @@
 {
-    "license": "proprietary",
-    "name": "torq/pimcore-flysystem-azure-bundle",
-    "type": "pimcore-bundle",
-    "require": {
-        "azure-oss/storage-blob-flysystem": "^1.2.0",
-        "pimcore/pimcore": "^11.0 || ^12.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "Torq\\PimcoreFlysystemAzureBundle\\": "src"
-        }
-    },
-    "extra": {
-        "pimcore": {
-            "bundles": [
-                "Torq\\PimcoreFlysystemAzureBundle\\TorqPimcoreFlysystemAzureBundle"
-            ]
-        }
+  "license": "proprietary",
+  "name": "torqnorth/pimcore-flysystem-azure-bundle",
+  "type": "pimcore-bundle",
+  "require": {
+    "azure-oss/storage-blob-flysystem": "^1.2.0",
+    "pimcore/pimcore": "^11.0 || ^12.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "TorqNorth\\PimcoreFlysystemAzureBundle\\": "src"
     }
+  },
+  "extra": {
+    "pimcore": {
+      "bundles": [
+        "TorqNorth\\PimcoreFlysystemAzureBundle\\TorqPimcoreFlysystemAzureBundle"
+      ]
+    }
+  }
 }

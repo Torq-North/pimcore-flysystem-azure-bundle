@@ -1,6 +1,6 @@
 <?php
 
-namespace Torq\PimcoreFlysystemAzureBundle\DependencyInjection;
+namespace TorqNorth\PimcoreFlysystemAzureBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\ConfigurationInterface;
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
