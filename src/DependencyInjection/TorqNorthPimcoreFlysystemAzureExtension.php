@@ -12,7 +12,7 @@ use Symfony\Component\Config\FileLocator;
  *
  * @link http://symfony.com/doc/current/cookbook/bundles/extension.html
  */
-class TorqPimcoreFlysystemAzureExtension extends Extension
+class TorqNorthPimcoreFlysystemAzureExtension extends Extension
 {
     /**
      * {@inheritdoc}
